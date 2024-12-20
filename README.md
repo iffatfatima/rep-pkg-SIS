@@ -1,4 +1,4 @@
-### Replication Package for the paper titled "Quantifying Sustainability Impact during Software Architecture Evaluation via a Sustainability Impact Score (SIS)"
+### Replication Package for the paper titled "Using Sustainability Impact Scores for Software Architecture Evaluation"
 
 
 The repository is structured as follows:
